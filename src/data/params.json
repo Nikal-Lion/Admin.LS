@@ -1,0 +1,4 @@
+{
+    "androidPackagePrefix": "https://lssc-oss-upload.oss-cn-shanghai.aliyuncs.com/Lssc/Apk/",
+    "uploadAction": "http://api.test.lssc.yssc-cloud.com/Files/Files/UploadFileToUserCenterApp"
+}
